@@ -1,4 +1,4 @@
-fn bubble_sort(values: &mut [u64]) {
+pub fn bubble_sort(values: &mut [u64]) {
     for already_sorted in 1..values.len() {
         for i in 0..(values.len() - already_sorted) {
             if values[i] > values[i + 1] {
