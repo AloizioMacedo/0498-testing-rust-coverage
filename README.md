@@ -2,4 +2,4 @@
 
 # Introduction
 
-This is a repository just to test Rust coverage reports.
+This is a repository just to test Rust coverage reports!
